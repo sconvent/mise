@@ -1,5 +1,35 @@
 # Changelog
 
+## [2025.1.10](https://github.com/jdx/mise/compare/v2025.1.9..v2025.1.10) - 2025-01-22
+
+### 🚀 Features
+
+- **(registry)** use aqua for periphery by [@MontakOleg](https://github.com/MontakOleg) in [#4157](https://github.com/jdx/mise/pull/4157)
+- split remote task by [@acesyde](https://github.com/acesyde) in [#4156](https://github.com/jdx/mise/pull/4156)
+
+### 🐛 Bug Fixes
+
+- completions were missing non-asdf tools by [@jdx](https://github.com/jdx) in [55b31a4](https://github.com/jdx/mise/commit/55b31a452b807ada4e2ba40c8b5588b77b79642e)
+- broken link for `/tasks/task-configuration` by [@134130](https://github.com/134130) in [#4155](https://github.com/jdx/mise/pull/4155)
+- whitespace in mise.run script by [@jdx](https://github.com/jdx) in [#4153](https://github.com/jdx/mise/pull/4153)
+- confusing error in fish_command_not_found by [@MrGreenTea](https://github.com/MrGreenTea) in [#4162](https://github.com/jdx/mise/pull/4162)
+- use correct python path for venv creation in windows by [@tisoft](https://github.com/tisoft) in [#4164](https://github.com/jdx/mise/pull/4164)
+
+### 📚 Documentation
+
+- neovim cookbook by [@EricDriussi](https://github.com/EricDriussi) in [#4161](https://github.com/jdx/mise/pull/4161)
+
+### Chore
+
+- added issue auto-closer by [@jdx](https://github.com/jdx) in [3c831c1](https://github.com/jdx/mise/commit/3c831c19a644fbb2f393f969ebaa5137f9415793)
+
+### New Contributors
+
+- @tisoft made their first contribution in [#4164](https://github.com/jdx/mise/pull/4164)
+- @MrGreenTea made their first contribution in [#4162](https://github.com/jdx/mise/pull/4162)
+- @EricDriussi made their first contribution in [#4161](https://github.com/jdx/mise/pull/4161)
+- @134130 made their first contribution in [#4155](https://github.com/jdx/mise/pull/4155)
+
 ## [2025.1.9](https://github.com/jdx/mise/compare/v2025.1.8..v2025.1.9) - 2025-01-17
 
 ### 🚀 Features
